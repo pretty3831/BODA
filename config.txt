@@ -1,4 +1,4 @@
-token= NTMxNTI3Mjc2MzIwMjYwMDk2.DxPPKQ.a_5ikh4DkgnBqgJOtamI2aV9WJI
+token= NTMxODYwNDUwODQxODUzOTgz.DxUOSw.gzqPxa4m9lSw7kXW7Sv5POPkmDI
 owner=433198762706599936
 prefix=4
 game= 7akawy SERVER

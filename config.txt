@@ -1,6 +1,6 @@
 token= NTMxNTI3Mjc2MzIwMjYwMDk2.DxPPKQ.a_5ikh4DkgnBqgJOtamI2aV9WJI
 owner=433198762706599936
-prefix=#
-game= HAWADET SERVER
+prefix=4
+game= 7akawy SERVER
 stayinchannel=true
 songinstatus=true 

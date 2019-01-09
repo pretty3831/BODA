@@ -1,6 +1,6 @@
 token= NTMxODYwNDUwODQxODUzOTgz.DxUOSw.gzqPxa4m9lSw7kXW7Sv5POPkmDI
 owner=433198762706599936
 prefix=4
-game= 7akawy SERVER
+game= Hakawi SERVER
 stayinchannel=true
 songinstatus=true 
